@@ -1,0 +1,10 @@
+# Intellij
+*.iml
+.idea/*
+
+# Maven
+**/target
+**/generated-sources
+
+# MacOS X
+.DS_Store
